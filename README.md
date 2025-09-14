@@ -1,4 +1,4 @@
-This is a directory contains tasks solutions of Holberton School project "Docker":
+This repo contains tasks solutions of Holberton School project "Docker":
 
 0. Create Your First Docker Image
 1. Back-end
